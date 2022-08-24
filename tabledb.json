@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "date": "2022-7-18 13:15",
+      "name": "Faustão",
+      "country": "Europa",
+      "age": "30"
+    },
+    {
+      "date": "2022-7-18 16:44",
+      "name": "renan",
+      "country": "brasil",
+      "age": "21",
+      "id": 2
+    },
+    {
+      "date": "2022-7-18 16:45",
+      "name": "Gustavo",
+      "country": "Bostil",
+      "age": "21",
+      "id": 3
+    },
+    {
+      "date": "2022-7-18 16:48",
+      "name": "a",
+      "country": "a",
+      "age": "21",
+      "id": 4
+    }
+  ]
+}
